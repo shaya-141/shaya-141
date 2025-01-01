@@ -17,7 +17,7 @@
 - 🔒 **Security:** Interested in learning about **Cybersecurity**.
 
 ## Let's Connect
-- [LinkedIn](www.linkedin.com/in/muhummad-shayan-44286824a)
+- [LinkedIn](https://www.linkedin.com/in/muhummad-shayan-44286824a/)
 - [GitHub](https://github.com/shaya-141)
 
 
