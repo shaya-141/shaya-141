@@ -9,7 +9,7 @@
 - 📫 You can reach me at mdshayan590@gmail.com.
 
 ## Projects
-- 🚀 projects I'm building include a **Flight Booking Web App** and a **Landlord-Tenant Management System**.
+- 🚀 projects I'm building include a **Flight Booking Web App** and a **Landowner-Tenant Management System**.
   
 ## Skills
 - 💻 **Frontend:** React.js, Tailwind CSS
