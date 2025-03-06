@@ -15,7 +15,6 @@ I'm a **MERN Stack Developer** with expertise in **React.js, Node.js, Express.js
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![Winston](https://img.shields.io/badge/Winston-000000?style=for-the-badge&logo=logstash&logoColor=white)  
 ![Morgan](https://img.shields.io/badge/Morgan-000000?style=for-the-badge&logo=logstash&logoColor=white)  
-
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Firebase
