@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shaya-141&label=Profile%20Views&color=0e75b6&style=flat)
 
 ### 👋 About Me
-I'm a **MERN Stack Developer** with expertise in **React.js, Node.js, Express.js, and MongoDB**. Passionate about **building scalable web applications** and exploring **backend optimizations, security, and database management**. Currently, I am working on **backend security and performance improvements** to become a **strong backend engineer**.
+I'm a **MERN Stack Developer** with expertise in **React.js, Node.js, Express.js, and MongoDB**. Passionate about **building scalable web applications** and exploring **backend optimizations, security, and database management**.
 
 ---
 
