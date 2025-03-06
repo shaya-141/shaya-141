@@ -33,7 +33,7 @@ I'm a **MERN Stack Developer** with expertise in **React.js, Node.js, Express.js
   - Logging with **Winston & Morgan**
 
 ### 2️⃣ Flight Booking App ✈️
-🔗 [GitHub Repo](https://github.com/shaya-141/FlightBookingApp)
+🔗 [GitHub Repo]()
 
 - **Features:**
   - User authentication 
@@ -41,7 +41,7 @@ I'm a **MERN Stack Developer** with expertise in **React.js, Node.js, Express.js
   - User can download a ticket
 
 ### 3️⃣ Landowner Tenant Management System 🏠
-🔗 [GitHub Repo](https://github.com/shaya-141/Landowner-Tenant-Management-System)
+🔗 [GitHub Repo](https://github.com/shaya-141/Rental-App)
 
 - **Features:**
   - LandOwner can add and manage rental properties
