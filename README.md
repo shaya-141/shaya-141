@@ -40,7 +40,7 @@ I'm a **MERN Stack Developer** with expertise in **React.js, Node.js, Express.js
   - Flight search & booking system
   - User can download a ticket
 
-### 3️⃣ Landowner Tenant Management System 🏠
+### 3️⃣ **Gharana** Landowner Tenant Management System 🏠
 🔗 [GitHub Repo](https://github.com/shaya-141/Rental-App)
 
 - **Features:**
