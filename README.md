@@ -33,7 +33,7 @@ I'm a **MERN Stack Developer** with expertise in **React.js, Node.js, Express.js
   - Logging with **Winston & Morgan**
 
 ### 2️⃣ Flight Booking App ✈️
-🔗 [GitHub Repo]()
+🔗 [GitHub Repo](https://github.com/shaya-141/Flight-Booking-App)
 
 - **Features:**
   - User authentication 
