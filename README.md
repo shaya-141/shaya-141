@@ -66,7 +66,6 @@ I'm a **MERN Stack Developer** with expertise in **React.js, Node.js, Express.js
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaya-141&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaya-141&layout=compact&theme=radical)
 
 ---
