@@ -36,30 +36,13 @@ I'm a **MERN Stack Developer** with expertise in **React.js, Node.js, Express.js
 ### 1️⃣ E-Commerce Backend API (Complete & Secured) 🛒
 🔗 [GitHub Repo](https://github.com/shaya-141/Ecom-Backend-Master)
 
-- **Features:**
-  - User authentication (JWT-based secure login/signup)
-  - Product management (CRUD operations with Multer for image uploads)
-  - Order processing (Admin & User order management)
-  - Secure APIs with **Helmet, CORS, and Rate Limiting**
-  - Advanced MongoDB queries & **Aggregation Pipelines**
-  - Logging with **Winston & Morgan**
 
 ### 2️⃣ Flight Booking App ✈️
 🔗 [GitHub Repo](https://github.com/shaya-141/Flight-Booking-App)
 
-- **Features:**
-  - User authentication 
-  - Flight search & booking system
-  - User can download a ticket
 
 ### 3️⃣ Gharana Landowner Tenant Management System 🏠
 🔗 [GitHub Repo](https://github.com/shaya-141/Rental-App)
-
-- **Features:**
-  - LandOwner can add and manage rental properties
-  - Tenants can request & rent properties
-  - Notifications for rent requests
-  - Profile management with image uploads
 
 ---
 
