@@ -1,4 +1,4 @@
-# 💻 Muhammad Shayan | MERN Stack Developer
+# 💻 Muhammad Shayan | 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shaya-141&label=Profile%20Views&color=0e75b6&style=flat)
 
