@@ -6,7 +6,6 @@
 I'm a **MERN Stack Developer** with expertise in **React.js, Node.js, Express.js, and MongoDB**. Passionate about **building scalable web applications** and exploring **backend optimizations, security, and database management**.Currently, I am working on **backend security and performance improvements** to become a **strong backend engineer**
 
 ---
-
 ## 🚀 Tech Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
