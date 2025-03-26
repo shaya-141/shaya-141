@@ -21,12 +21,7 @@ Hey, I’m Shayan! A MERN Stack Developer passionate about building sleek, high-
 ![Winston](https://img.shields.io/badge/Winston-000000?style=for-the-badge&logo=logstash&logoColor=white) 
 ![Morgan](https://img.shields.io/badge/Morgan-000000?style=for-the-badge&logo=logstash&logoColor=white)
 
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Firebase
-- **Security:** Helmet.js, Rate Limiting, CORS, JWT Authentication
-- **Logging & Monitoring:** Winston, Morgan
-- **API Development:** REST API
+
 
 
 ---
