@@ -1,9 +1,3 @@
-# 💻 Muhammad Shayan | MERN Stack Developer
-
-![Profile Views](https://komarev.com/ghpvc/?username=shaya-141&label=Profile%20Views&color=0e75b6&style=flat)
-
-### 👋 About Me
-Hey, I’m Shayan! A MERN Stack Developer passionate about building sleek, high-performance web apps with React.js, Node.js, Express, and MongoDB. 🚀 Always exploring new technologies and pushing the limits of innovation! 💡✨
 
 ---
 ## 🚀 Tech Stack & Tools
